@@ -12,4 +12,4 @@
 
 3 e 4 - Tratamento de dados e vinculação de datasets de Endereços, Setores Censitários e IBGE (Censo 2010)
 
-5 - Criação de um modelo preditivo de precos de imoveis
+5 - Criação de um modelo preditivo de preços de imoveis em São Paulo
